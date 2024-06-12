@@ -201,4 +201,47 @@ export const SEEDS: Sudoku[] = [
     solution: 'deficahgbchagfbdeibgiedhacffagdicbheebchafgididhbegfacgcdabiefhafbcheidghiefgdcba',
     difficulty: 'expert',
   },
+  {
+    puzzle: '--da-ibg-g------d------h--c--a-c---g-ib---------f-e---h--b---f---------b-f---de--',
+    solution: 'cedafibghgahebcidfibfgdhaecehadcbfigfibhagdcedgcfiehbahcibeagfdadeigfchbbfgchdeai',
+    difficulty: 'impossible',
+  },
+  {
+    puzzle: '-----hb----b-c---dh---e-i-ca-fcd-----b-f------------g-------a-i-i-h-e---c-gi----h',
+    solution: 'fdcgihbaeiebacfghdhgabedifcahfcdgeibgbefhicdadciebahgfefhdgcabibidhaefcgcagifbdeh',
+    difficulty: 'impossible',
+  }, {
+    puzzle: 'ca-i--d---i----ah---h--d---d----f--e-g----ci--hic---d---e----------e---------g-cf',
+    solution: 'cabifhdegfidgbeahcgehacdbfidbchifgaeagfedbcihehicgafdbbcefaihgdhfgdecibaidabhgecf',
+    difficulty: 'impossible',
+  }, {
+    puzzle: '------g---dhg----c---fc--e---c-i-h--h--e---c-f--c----i--a---e-dc-i-b-----e--a----',
+    solution: 'ecfahigdbidhgebfacabgfcdiehdgcbiahfehibegfdcafaecdhbgighaifcebdcfidbeahgbedhagcif',
+    difficulty: 'impossible',
+  }, {
+    puzzle: 'd---a---bf--c--h---a-fi---c--bh---g---------aif--e----h-----------bf--i----d--c-g',
+    solution: 'dcgeahifbfbicgdhaeeahfibgdcaebhdcfgighdibfecaifcaegbhdhdegciabfcgabfedihbifdhaceg',
+    difficulty: 'impossible',
+  }, {
+    puzzle: '-i-c------f---b--gb--h----ed--f----bi-------------h-cf-----ge-----b---gce---i--a-',
+    solution: 'hiecgdbfacfdeabihgbgahficdedahfcegibicfgbahedgebidhacffdcahgebiahibefdgcebgdicfah',
+    difficulty: 'impossible',
+  }, {
+    puzzle: '---h---f--h-a----eb----fai--b----d--g-------cefc-----i-ef-c---d-----e-ha----i----',
+    solution: 'icahedgfbfhgabicdebdecgfaihabhifcdeggidehbfacefcdaghbihefbcaigdcgifdebhadabgihecf',
+    difficulty: 'impossible',
+  }, {
+    puzzle: '-----g-f-------a--e-ad----b-a-b----f--bgf-i---i--c-h----d--a----e-i-----c---g-f-d',
+    solution: 'bdhcagefiifghebadcecadifghbgacbhidefdhbgfeicafieacdhbghgdfbacieaefidcbghcbieghfad',
+    difficulty: 'impossible',
+  }, {
+    puzzle: '---g---c-c---i-b-d-f---------d-g--if-g---b-a----i-ad----f----ga-c-----d---e-f----',
+    solution: 'edigbfachchgaiebfdbfadchgeiabdegchifighfdbeacfecihadbghifbedcgagcbhaifdedaecfgihb',
+    difficulty: 'impossible',
+  }, {
+    puzzle: '-g--f-i-a--f-i---e-e-h----gb-------h---i-b-f---e-a-g---d---a--c--a---d-fh--------',
+    solution: 'cghefdibadbfaigcheaeihbcfdgbadgcfeihghciebafdfiedahgcbidbfgahececabhidgfhfgcdebai',
+    difficulty: 'impossible',
+  },
+
 ];

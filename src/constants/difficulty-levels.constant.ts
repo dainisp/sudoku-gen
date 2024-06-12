@@ -5,6 +5,7 @@ const DIFFICULTY_RECORD: Record<Difficulty, undefined> = {
   medium: undefined,
   hard: undefined,
   expert: undefined,
+  impossible:undefined,
 };
 
 export const DIFFICULTY_LEVELS = Object.keys(DIFFICULTY_RECORD);
