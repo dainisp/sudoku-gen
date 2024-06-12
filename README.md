@@ -15,7 +15,7 @@ You can generate a sudoku using the `getSudoku` command, passing an optional dif
 ```javascript
 import { getSudoku } from 'sudoku-gen';
 
-// Get a sudoku of specific difficulty (easy, medium, hard, expert)
+// Get a sudoku of specific difficulty (easy, medium, hard, expert,impossible)
 const sudoku = getSudoku('easy');
 
 // Get a sudoku of random difficulty
